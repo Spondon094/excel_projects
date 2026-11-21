@@ -1,5 +1,7 @@
 # NYC School Bus Breakdowns and Delays (Excel)
 
+**Full workbook:** [Google Drive](https://drive.google.com/drive/folders/1ratQWiDGjueSbPeWEpckXeO8IJEr2Sfx?usp=sharing)
+
 Excel analysis of NYC school bus breakdown and delay records from September 2019 to December 2023, built as a guided project in a data analysis course. The course scenario: find patterns behind bus breakdowns and delays. It answers three questions with pivot tables and charts.
 
 **Workbook:** `Bus_Breakdown_and_Delays_NYC_Project_lean.xlsx` (about 17 MB). The full workbook is about 70 MB, over what GitHub accepts for a normal upload, so this copy leaves out two sheets: the raw data and the `Cleaned` sheet (about 280,000 rows each). Everything else is unchanged: the scenario, the `Common Delay Reasons` sheet with its source rows, and the `Delay Times` and `Day of Week` sheets with their pivot tables and charts. The pivot tables on `Delay Times` and `Day of Week` show their saved results but cannot be refreshed, because their source sheet is not in this copy.
