@@ -1,5 +1,7 @@
 # LAPD Crime Dashboard (Excel, Power Query and Data Model)
 
+**Full workbook:** [Google Drive](https://drive.google.com/drive/folders/1ratQWiDGjueSbPeWEpckXeO8IJEr2Sfx?usp=sharing)
+
 An Excel dashboard of crime reports to the Los Angeles Police Department, built as a guided course project in Excel automation. The course scenario: the data arrives as one CSV file per year, so the workbook should load every file in a folder by itself and update when a new file is added, instead of being copied and pasted by hand.
 
 **The workbook (about 216 MB) is not in this repository.** GitHub rejects files over 100 MB. This repository holds the query code, the description and screenshots of the dashboard.
