@@ -3,7 +3,7 @@
 Excel analysis of US public debt from April 1993 to February 2023, built as a guided project in a data analysis course. It answers three questions with pivot tables, charts and a forecast.
 
 **File:** `US_Debt_Tracker_Project.xlsx`
-
+**Full workbook:** [Google Drive](https://drive.google.com/drive/folders/1ratQWiDGjueSbPeWEpckXeO8IJEr2Sfx?usp=sharing)
 ## Data
 
 Daily US public debt figures supplied with the course, about 7,500 records, with three measures:
