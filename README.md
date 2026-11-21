@@ -2,7 +2,7 @@
 
 Four Excel projects from guided courses in data analysis and Excel automation: two analyses built with pivot tables and charts, and two automated workflows built with VBA macros and Power Query. Each project has its own folder with a README that gives the data, method, findings and limitations.
 
-**Full workbooks:** [Google Drive](PASTE-LINK-HERE). Some workbooks are too large for GitHub (the LAPD one is about 216 MB), so they are on Drive.
+**Full workbooks:** [Google Drive](https://drive.google.com/drive/folders/1ratQWiDGjueSbPeWEpckXeO8IJEr2Sfx?usp=sharing). Some workbooks are too large for GitHub (the LAPD one is about 216 MB), so they are on Drive.
 
 ## Projects
 
